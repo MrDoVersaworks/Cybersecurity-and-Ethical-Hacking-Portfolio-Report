@@ -1,4 +1,4 @@
-#Cybersecurity and Ethical Hacking Portfolio Report
+Cybersecurity and Ethical Hacking Portfolio Report
 1. Introduction
 This report documents a penetration test conducted on a controlled, isolated environment (a vulnerable virtual machine, e.g., Metasploitable2) to demonstrate key cybersecurity and ethical hacking skills. The objective was to identify vulnerabilities, exploit them, and collect relevant information, simulating a real-world ethical hacking scenario.
 
